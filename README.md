@@ -8,9 +8,11 @@
 
 <h3>Database:</h3>
 <br>
+
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 
 <h3>Tools:</h3>
 <br>
+
 [![My Skills](https://skillicons.dev/icons?i=figma,git,github,visualstudio,vscode,wordpress)](https://skillicons.dev)
