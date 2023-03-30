@@ -2,16 +2,14 @@
 <h2>Skills:</h2>
 
 <h3>Langagues:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,dotnet,heroku,jquery,rails)](https://skillicons.dev)
-
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,dotnet,heroku,jquery,rails,ruby)](https://skillicons.dev)
 
 
-Database:
+Database:<br>
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 
-Tools:
+Tools:<br>
 [![My Skills](https://skillicons.dev/icons?i=figma,git,github,visualstudio,vscode,wordpress)](https://skillicons.dev)
