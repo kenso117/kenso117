@@ -2,6 +2,7 @@
 <h2>Skills:</h2>
 
 <h3>Langagues:</h3>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,dotnet,heroku,jquery,rails,ruby)](https://skillicons.dev)
 
 
 Database:
